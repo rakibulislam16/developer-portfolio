@@ -45,7 +45,7 @@ margin-bottom: 150px;}
 }
 #full-stuck-web-developer{
     border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);
+    border-image: linear-gradient(orange,tomato);
     border-image-slice: 1;
 }
 footer p {text-align: center;}

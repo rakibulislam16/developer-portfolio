@@ -25,3 +25,27 @@ margin-bottom: 150px;}
     background-repeat: no-repeat;
     background-position: right;
 }
+.experiance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px; 
+    border-left: 10px solid;
+    box-shadow: 10px 10px 40px gray;
+}
+#web-developer-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan); 
+    border-image-slice: 1;
+}
+#full-stuck-web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p {text-align: center;}
